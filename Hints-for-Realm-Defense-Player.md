@@ -5,7 +5,10 @@
 <a href="https://itunes.apple.com/us/app/realm-defense/id1197076384?mt=8" target="_blank"><img src="/images/download_app_store.svg"  height="48" /></a>
 
 ## 目录（测试中）
-[英雄购买与隐藏关卡](#英雄购买与隐藏关卡)
+1. [英雄购买与隐藏关卡](#英雄购买与隐藏关卡) 
+2. [大地图](#大地图)
+3. [时空裂境&英雄升级副本](#时空裂境&英雄升级副本)
+4. [锦标赛](#锦标赛)
 
 ## 写在前面
 
